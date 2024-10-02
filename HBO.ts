@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1280x720
-http://103.110.110.11:8081/live/hbo/playlist.html
+http://103.110.110.11:8081/live/hbo/playlist.ts
